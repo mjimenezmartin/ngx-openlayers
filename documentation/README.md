@@ -359,7 +359,7 @@ Interaction for drawing feature geometries. See https://openlayers.org/en/master
 Draw point
 ```html
 <aol-map>
-    <df-interaction-draw type="Point"></df-interaction-draw>
+    <aol-interaction-draw type="Point"></aol-interaction-draw>
 </aol-map>
 ```
 
